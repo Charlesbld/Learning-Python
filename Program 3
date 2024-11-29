@@ -1,0 +1,7 @@
+a=float(input("Enter a number : "))
+b=float(input("Enter another number : "))
+print("The sum of these two number is",a+b)
+print("The soustraction of these two number is",a-b)
+print("The multiplication of these two number is",round(a*b,2))
+print("The exponential of these two number is",round(a**b,2))
+print("The division of these two number is",round(a/b,2))
